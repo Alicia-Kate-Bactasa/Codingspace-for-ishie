@@ -9,12 +9,18 @@ and keep track of my submissions. Basically, it’s where I practice coding the 
 
 ## Features  
 
+- para isa ra akong ganahan e code for departmentals study :> 
 - Create, edit, and organize custom coding problems  
 - Built-in code editor (Monaco). 
 - Run code against test cases to check solutions  
 - Dark/light mode toggle with a clean minimalist design  
-- Submission history stored locally in the browser  
+- Submission history stored locally in the browser
 
+## Constrictions:
+- no problem deletion YET!
+- can't reorder the problems for personalization
+- ambot unsa pa kay para nako raman ni so :p
+  
 **credit:** used SVG icons from heroicon.com
 
 ## Tech Stack  
