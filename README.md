@@ -22,7 +22,11 @@ and keep track of my submissions. Basically, it’s where I practice coding the 
 - can't reorder the problems for personalization
 - ambot unsa pa kay para nako raman ni so :p
   
-**credit:** used SVG icons from heroicons.com
+## Unresolved problem (dont have time to fix yet):
+- submission results dont be addin up
+- compiler
+
+**credit:** used SVG icons from heroicons .com
 
 ## Tech Stack  
 
