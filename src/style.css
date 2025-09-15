@@ -1,7 +1,7 @@
 
 :root {
-    --bg-primary: #1f1d2e;
-    --bg-secondary: #3a384e;
+    --bg-primary: #302d44;
+    --bg-secondary: #444356;
     --bg-tertiary: #3b3849;
     --bg-sidebar: #1f1d2e;
     --bg-sidebar-hover: #2d2b3d;
@@ -12,7 +12,7 @@
     --text-sidebar: #e0def4;
     --text-sidebar-hover: #ffffff;
     
-    --accent-pink: #eb6f92;
+    --accent-pink: #ec8ba6;
     --accent-pink-hover: #f38ba8;
     --accent-pink-dark: #c44569;
     
@@ -41,9 +41,9 @@
     --text-secondary: #c4c1d4;
     --text-sidebar: #f2f0f7;
     --text-sidebar-hover: #ffffff;
-    --accent-pink: #f38ba8;
+    --accent-pink: #c64b6e;
     --accent-pink-hover: #f8a5c2;
-    --accent-pink-dark: #d63384;
+    --accent-pink-dark: #a3386e;
     --editor-bg: #0f0e1a;
     --editor-text: #f2f0f7;
     --editor-line: #252233;
