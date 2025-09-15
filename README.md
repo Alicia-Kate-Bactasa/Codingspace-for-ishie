@@ -16,7 +16,7 @@ and keep track of my submissions. Basically, it’s where I practice coding the 
 - Dark/light mode toggle with a clean minimalist design  
 - Submission history stored locally in the browser
 
-## Constrictions:
+## Restrictions:
 - no problem deletion YET!
 - can't reorder the problems for personalization
 - ambot unsa pa kay para nako raman ni so :p
