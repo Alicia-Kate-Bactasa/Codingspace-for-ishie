@@ -34,10 +34,3 @@ Uses CSS variables for easier customization:
     --accent-color: #000000;
   
 }
-
-
-
-
-
-
-
