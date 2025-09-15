@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "title": "Hello World",
+    "description": "Write a function that returns the string 'Hello, World!'",
+    "difficulty": "easy",
+    "testCases": [
+      {
+        "input": "",
+        "expectedOutput": "Hello, World!"
+      }
+    ],
+    "language": "javascript"
+  },
+  {
+    "id": 2,
+    "title": "Sum of Two Numbers",
+    "description": "Write a function that takes two numbers as parameters and returns their sum.",
+    "difficulty": "easy",
+    "testCases": [
+      {
+        "input": "5, 3",
+        "expectedOutput": "8"
+      },
+      {
+        "input": "-2, 7",
+        "expectedOutput": "5"
+      },
+      {
+        "input": "0, 0",
+        "expectedOutput": "0"
+      }
+    ],
+    "language": "javascript"
+  },
+  {
+    "id": 3,
+    "title": "Factorial",
+    "description": "Write a function that calculates the factorial of a given number n. The factorial of n is the product of all positive integers less than or equal to n.",
+    "difficulty": "medium",
+    "testCases": [
+      {
+        "input": "5",
+        "expectedOutput": "120"
+      },
+      {
+        "input": "0",
+        "expectedOutput": "1"
+      },
+      {
+        "input": "3",
+        "expectedOutput": "6"
+      },
+      {
+        "input": "1",
+        "expectedOutput": "1"
+      }
+    ],
+    "language": "javascript"
+  },
+  {
+    "id": 4,
+    "title": "Palindrome Checker",
+    "description": "Write a function that checks if a given string is a palindrome (reads the same forwards and backwards). Ignore case and non-alphanumeric characters.",
+    "difficulty": "medium",
+    "testCases": [
+      {
+        "input": "racecar",
+        "expectedOutput": "true"
+      },
+      {
+        "input": "A man a plan a canal Panama",
+        "expectedOutput": "true"
+      },
+      {
+        "input": "hello",
+        "expectedOutput": "false"
+      },
+      {
+        "input": "race a car",
+        "expectedOutput": "false"
+      }
+    ],
+    "language": "javascript"
+  },
+  {
+    "id": 5,
+    "title": "Fibonacci Sequence",
+    "description": "Write a function that returns the nth number in the Fibonacci sequence. The Fibonacci sequence starts with 0, 1, and each subsequent number is the sum of the two preceding numbers.",
+    "difficulty": "medium",
+    "testCases": [
+      {
+        "input": "0",
+        "expectedOutput": "0"
+      },
+      {
+        "input": "1",
+        "expectedOutput": "1"
+      },
+      {
+        "input": "5",
+        "expectedOutput": "5"
+      },
+      {
+        "input": "10",
+        "expectedOutput": "55"
+      }
+    ],
+    "language": "javascript"
+  },
+  {
+    "id": 6,
+    "title": "Two Sum",
+    "description": "Given an array of integers and a target sum, find two numbers in the array that add up to the target. Return the indices of these two numbers.",
+    "difficulty": "medium",
+    "testCases": [
+      {
+        "input": "[2, 7, 11, 15], 9",
+        "expectedOutput": "[0, 1]"
+      },
+      {
+        "input": "[3, 2, 4], 6",
+        "expectedOutput": "[1, 2]"
+      },
+      {
+        "input": "[3, 3], 6",
+        "expectedOutput": "[0, 1]"
+      }
+    ],
+    "language": "javascript"
+  },
+  {
+    "id": 7,
+    "title": "Reverse String",
+    "description": "Write a function that reverses a string without using built-in reverse methods.",
+    "difficulty": "easy",
+    "testCases": [
+      {
+        "input": "hello",
+        "expectedOutput": "olleh"
+      },
+      {
+        "input": "world",
+        "expectedOutput": "dlrow"
+      },
+      {
+        "input": "a",
+        "expectedOutput": "a"
+      },
+      {
+        "input": "",
+        "expectedOutput": ""
+      }
+    ],
+    "language": "javascript"
+  },
+  {
+    "id": 8,
+    "title": "Binary Search",
+    "description": "Implement binary search to find a target value in a sorted array. Return the index of the target, or -1 if not found.",
+    "difficulty": "hard",
+    "testCases": [
+      {
+        "input": "[1, 2, 3, 4, 5], 3",
+        "expectedOutput": "2"
+      },
+      {
+        "input": "[1, 2, 3, 4, 5], 6",
+        "expectedOutput": "-1"
+      },
+      {
+        "input": "[1, 3, 5, 7, 9], 5",
+        "expectedOutput": "2"
+      },
+      {
+        "input": "[1, 3, 5, 7, 9], 1",
+        "expectedOutput": "0"
+      }
+    ],
+    "language": "javascript"
+  },
+  {
+    "id": 9,
+    "title": "Valid Parentheses",
+    "description": "Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid. An input string is valid if: 1) Open brackets must be closed by the same type of brackets. 2) Open brackets must be closed in the correct order.",
+    "difficulty": "medium",
+    "testCases": [
+      {
+        "input": "()",
+        "expectedOutput": "true"
+      },
+      {
+        "input": "()[]{}",
+        "expectedOutput": "true"
+      },
+      {
+        "input": "(]",
+        "expectedOutput": "false"
+      },
+      {
+        "input": "([)]",
+        "expectedOutput": "false"
+      },
+      {
+        "input": "{[]}",
+        "expectedOutput": "true"
+      }
+    ],
+    "language": "javascript"
+  },
+  {
+    "id": 10,
+    "title": "Maximum Subarray",
+    "description": "Given an integer array, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.",
+    "difficulty": "hard",
+    "testCases": [
+      {
+        "input": "[-2, 1, -3, 4, -1, 2, 1, -5, 4]",
+        "expectedOutput": "6"
+      },
+      {
+        "input": "[1]",
+        "expectedOutput": "1"
+      },
+      {
+        "input": "[5, 4, -1, 7, 8]",
+        "expectedOutput": "23"
+      },
+      {
+        "input": "[-1]",
+        "expectedOutput": "-1"
+      }
+    ],
+    "language": "javascript"
+  }
+]
