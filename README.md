@@ -30,6 +30,8 @@ and keep track of my submissions. Basically, it’s where I practice coding the 
 - **Monaco Editor** for coding  
 - **Local Storage**
 
+![Alt text](media/ahm.png)
+
 ### Styling Changes
 
 Uses CSS variables for easier customization:
@@ -42,5 +44,5 @@ Uses CSS variables for easier customization:
   
 }
 ```
-![Alt text](media/ahm.png)
+
 
