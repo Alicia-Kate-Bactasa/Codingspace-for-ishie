@@ -1,6 +1,6 @@
 **on-going project**
 
-# Personal Coding Platform  
+# Personal Coding Platform (a coding archive) 
 
 This is my own little coding playground built just for me. It lets me create problems, solve them in a built-in editor, run test cases,
 and keep track of my submissions. Basically, it’s where I practice coding the way I want to.
