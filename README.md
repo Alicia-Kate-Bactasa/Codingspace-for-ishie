@@ -35,4 +35,4 @@ Uses CSS variables for easier customization:
   
 }
 
-![Alt text](ahm.png)
+![Alt text](media/ahm.png)
