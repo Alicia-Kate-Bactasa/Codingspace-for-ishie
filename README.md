@@ -22,7 +22,7 @@ and keep track of my submissions. Basically, it’s where I practice coding the 
 - can't reorder the problems for personalization
 - ambot unsa pa kay para nako raman ni so :p
   
-**credit:** used SVG icons from heroicon.com
+**credit:** used SVG icons from heroicons.com
 
 ## Tech Stack  
 
