@@ -18,6 +18,7 @@ and keep track of my submissions. Basically, it’s where I practice coding the 
 
 ## Restrictions:
 - no problem deletion YET!
+- can't delete submission history one by one Yet!
 - can't reorder the problems for personalization
 - ambot unsa pa kay para nako raman ni so :p
   
@@ -41,6 +42,5 @@ Uses CSS variables for easier customization:
   
 }
 ```
-
 ![Alt text](media/ahm.png)
 
